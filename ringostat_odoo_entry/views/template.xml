@@ -1,12 +1,5 @@
-
 <odoo>
-    <template id="ringostat_redirect_template" name="Ringostat Integration">
-        <t t-call="website.layout">
-            <div class="oe_structure">
-                <h1>Інтеграція з Ringostat</h1>
-                <p>Натисніть нижче, щоб перейти до кабінету Ringostat:</p>
-                <a class="btn btn-primary" href="/ringostat/link">Перейти</a>
-            </div>
-        </t>
-    </template>
+    <data>
+        <menuitem id="menu_ringostat_stub_root" name="Ringostat" sequence="10"/>
+    </data>
 </odoo>

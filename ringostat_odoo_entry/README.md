@@ -1,18 +1,17 @@
-
 # Ringostat Integration for Odoo
 
-Цей модуль є точкою входу до інтеграції з платформою **Ringostat** — системою телефонії, колтрекінгу та аналітики дзвінків.
+This module serves as the entry point for integrating with the **Ringostat** platform — an AI-powered business phone, call tracking, and analytics platform.
 
-## Що робить модуль
+## What the module does
 
-- Відображає сторінку з описом інтеграції.
-- Додає кнопку, яка перекидає користувача до кабінету Ringostat.
-- Може слугувати як інформаційна точка входу для SaaS-платформи.
+- Displays a page with integration details.
+- Adds a button that redirects users to their Ringostat account.
+- Serves as an informational entry point for the SaaS platform.
 
-## Як це виглядає
+## How it looks
 
 ![Ringostat Integration](static/description/screenshot.png)
 
-## Додатково
+## Additional Information
 
-Більше інформації: [https://ringostat.com/ua/integration](https://ringostat.com/ua/integration)
+More Information: [https://ringostat.com/uk/integrations/#all](https://ringostat.com/uk/integrations/#all)
