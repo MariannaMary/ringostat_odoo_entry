@@ -1,5 +1,5 @@
 <odoo>
-    <data>
-        <menuitem id="menu_ringostat_stub_root" name="Ringostat" sequence="10"/>
-    </data>
+    <template id="ringostat_stub_template" name="Ringostat Stub">
+        <div class="oe_structure"/>
+    </template>
 </odoo>

@@ -7,8 +7,7 @@
     "version": "1.0",
     "depends": ["base"],
     "data": ["views/template.xml"],
-    "installable": true,
-    "application": true,
-    "license": "OPL-1",
-    "images": ["static/description/icon.png"]
+    "installable": True,
+    "application": True,
+    "license": "OPL-1"
 }
