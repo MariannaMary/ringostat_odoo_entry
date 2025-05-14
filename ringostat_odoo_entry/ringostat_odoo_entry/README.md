@@ -14,4 +14,4 @@ This module serves as the entry point for integrating with the **Ringostat** pla
 
 ## Additional Information
 
-Watch our videos: https://www.youtube.com/@ringostat
+More Information: [https://ringostat.com/uk/integrations/#all](https://ringostat.com/uk/integrations/#all)
