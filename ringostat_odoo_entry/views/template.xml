@@ -1,4 +1,0 @@
-<odoo>
-    <template id="assets_frontend" name="ringostat assets" inherit_id="web.assets_frontend">
-    </template>
-</odoo>
